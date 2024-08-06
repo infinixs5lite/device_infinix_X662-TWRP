@@ -6,7 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_X662.mk
+    $(LOCAL_DIR)/omni_X662.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_X662-eng
+    omni_X662-eng
